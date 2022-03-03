@@ -74,7 +74,7 @@ void EmptyLinkFunctionForGeneratedCodeGithubTestGameModeBase() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AGithubTestGameModeBase, 1524765907);
+	IMPLEMENT_CLASS(AGithubTestGameModeBase, 1526990222);
 	template<> GITHUBTEST_API UClass* StaticClass<AGithubTestGameModeBase>()
 	{
 		return AGithubTestGameModeBase::StaticClass();

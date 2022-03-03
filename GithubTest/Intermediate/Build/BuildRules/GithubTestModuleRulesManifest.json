@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"D:\\ue4_test\\GithubTest\\Source\\GithubTest\\GithubTest.Build.cs",
-		"D:\\ue4_test\\GithubTest\\Source\\GithubTest.Target.cs",
-		"D:\\ue4_test\\GithubTest\\Source\\GithubTestEditor.Target.cs"
+		"C:\\Users\\jack0\\Github\\UnrealTest\\GithubTest\\Source\\GithubTest\\GithubTest.Build.cs",
+		"C:\\Users\\jack0\\Github\\UnrealTest\\GithubTest\\Source\\GithubTest.Target.cs",
+		"C:\\Users\\jack0\\Github\\UnrealTest\\GithubTest\\Source\\GithubTestEditor.Target.cs"
 	],
-	"EngineVersion": "4.26.1"
+	"EngineVersion": "4.27.2"
 }

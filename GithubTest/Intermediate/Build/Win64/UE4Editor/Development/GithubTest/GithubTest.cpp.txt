@@ -1,2 +1,2 @@
-D:\ue4_test\GithubTest\Intermediate\Build\Win64\UE4Editor\Development\GithubTest\Definitions.GithubTest.h
-D:\ue4_test\GithubTest\Source\GithubTest\GithubTest.h
+C:\Users\jack0\Github\UnrealTest\GithubTest\Intermediate\Build\Win64\UE4Editor\Development\GithubTest\Definitions.GithubTest.h
+C:\Users\jack0\Github\UnrealTest\GithubTest\Source\GithubTest\GithubTest.h

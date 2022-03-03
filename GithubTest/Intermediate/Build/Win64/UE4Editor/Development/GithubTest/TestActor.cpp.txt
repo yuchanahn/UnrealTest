@@ -1,0 +1,3 @@
+C:\Users\jack0\Github\UnrealTest\GithubTest\Intermediate\Build\Win64\UE4Editor\Development\GithubTest\Definitions.GithubTest.h
+C:\Users\jack0\Github\UnrealTest\GithubTest\Source\GithubTest\TestActor.h
+C:\Users\jack0\Github\UnrealTest\GithubTest\Intermediate\Build\Win64\UE4Editor\Inc\GithubTest\TestActor.generated.h

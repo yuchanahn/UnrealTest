@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-GithubTest-9551.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\jack0\Github\UnrealTest\GithubTest\Intermediate\Build\Win64\GithubTestEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\jack0\Github\UnrealTest\GithubTest\Intermediate\Build\Win64\UE4Editor\Development\GithubTest\GithubTest.cpp.obj"
+"C:\Users\jack0\Github\UnrealTest\GithubTest\Intermediate\Build\Win64\UE4Editor\Development\GithubTest\GithubTestGameModeBase.cpp.obj"
+"C:\Users\jack0\Github\UnrealTest\GithubTest\Intermediate\Build\Win64\UE4Editor\Development\GithubTest\TestActor.cpp.obj"
+"C:\Users\jack0\Github\UnrealTest\GithubTest\Intermediate\Build\Win64\UE4Editor\Development\GithubTest\GithubTest.init.gen.cpp.obj"
+"C:\Users\jack0\Github\UnrealTest\GithubTest\Intermediate\Build\Win64\UE4Editor\Development\GithubTest\GithubTestGameModeBase.gen.cpp.obj"
+"C:\Users\jack0\Github\UnrealTest\GithubTest\Intermediate\Build\Win64\UE4Editor\Development\GithubTest\TestActor.gen.cpp.obj"
+"C:\Users\jack0\Github\UnrealTest\GithubTest\Intermediate\Build\Win64\UE4Editor\Development\GithubTest\Default.rc2.res"
+/OUT:"C:\Users\jack0\Github\UnrealTest\GithubTest\Intermediate\Build\Win64\UE4Editor\Development\GithubTest\UE4Editor-GithubTest-9551.lib"

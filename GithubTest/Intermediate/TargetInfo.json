@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "GithubTest",
-			"Path": "D:\\ue4_test\\GithubTest\\Source\\GithubTest.Target.cs",
+			"Path": "C:\\Users\\jack0\\Github\\UnrealTest\\GithubTest\\Source\\GithubTest.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "GithubTestEditor",
-			"Path": "D:\\ue4_test\\GithubTest\\Source\\GithubTestEditor.Target.cs",
+			"Path": "C:\\Users\\jack0\\Github\\UnrealTest\\GithubTest\\Source\\GithubTestEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]
