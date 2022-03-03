@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-GithubTest.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\ue4_test\GithubTest\Intermediate\Build\Win64\GithubTestEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\ue4_test\GithubTest\Intermediate\Build\Win64\UE4Editor\Development\GithubTest\GithubTest.cpp.obj"
+"D:\ue4_test\GithubTest\Intermediate\Build\Win64\UE4Editor\Development\GithubTest\GithubTestGameModeBase.cpp.obj"
+"D:\ue4_test\GithubTest\Intermediate\Build\Win64\UE4Editor\Development\GithubTest\GithubTest.init.gen.cpp.obj"
+"D:\ue4_test\GithubTest\Intermediate\Build\Win64\UE4Editor\Development\GithubTest\GithubTestGameModeBase.gen.cpp.obj"
+"D:\ue4_test\GithubTest\Intermediate\Build\Win64\UE4Editor\Development\GithubTest\Default.rc2.res"
+/OUT:"D:\ue4_test\GithubTest\Intermediate\Build\Win64\UE4Editor\Development\GithubTest\UE4Editor-GithubTest.lib"
+/INCLUDE:IMPLEMENT_MODULE_GithubTest

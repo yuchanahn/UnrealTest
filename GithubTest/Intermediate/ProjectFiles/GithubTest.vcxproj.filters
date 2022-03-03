@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\GithubTest.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{59F6034A-B255-4CCF-AAA7-413FD1345E56}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GithubTest.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\GithubTestEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{243E4BB8-BFB1-49B8-9F7A-ACD27D970506}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\GithubTest">
+      <UniqueIdentifier>{5B765693-0665-464A-AA78-09E534D7147F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GithubTest\GithubTest.Build.cs">
+      <Filter>Source\GithubTest</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\GithubTest\GithubTest.cpp">
+      <Filter>Source\GithubTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GithubTest\GithubTest.h">
+      <Filter>Source\GithubTest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GithubTest\GithubTestGameModeBase.cpp">
+      <Filter>Source\GithubTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GithubTest\GithubTestGameModeBase.h">
+      <Filter>Source\GithubTest</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
